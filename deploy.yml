@@ -1,0 +1,3 @@
+mode: static-site
+outputDir: .vitepress/dist
+buildCommand:before: npx vitepress build
