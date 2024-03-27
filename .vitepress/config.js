@@ -3,5 +3,7 @@ export default {
     lang: 'zh-CN',
     title: '喵藕',
     description: '一些小工具',
-    outDir: './docs'
+    outDir: './docs',
+    base: '/miaoou/'
+
   }
