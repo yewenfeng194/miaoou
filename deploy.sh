@@ -15,7 +15,8 @@ npm run build
 git init
 git add -A
 git commit -m 'deploy'
-
+# git config --global user.email "1941342487@qq.com"
+# git config --global user.name "yewenfeng"
 git push --force git@github.com:yewenfeng194/miaoou.git master
 
 cd -
